@@ -1,5 +1,5 @@
 // TODO: What does 'this' refer to?
-// The window
+// The window object
 console.log(this);
 
 // TODO: What does 'this' refer to?
